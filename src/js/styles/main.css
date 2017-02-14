@@ -1,0 +1,19 @@
+.space {
+  margin-top: 20px;
+}
+.spaces{
+  margin-top: 40px;
+  border: solid 2px steelblue;
+  transition: 10s;
+}
+.wholeWidth{
+  width:80%;
+  padding-top:8px;
+  padding-bottom:11px;
+  margin-left:15px;
+  font-size:20px;
+}
+.completed {
+  text-decoration: line-through;
+  color: #CCCCCC;
+}
